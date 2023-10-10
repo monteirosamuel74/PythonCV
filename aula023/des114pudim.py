@@ -7,3 +7,5 @@ except urllib.error.URLError:
     print('Site indisponível!')
 else:
     print('Site está online!')
+    
+    

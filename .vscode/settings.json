@@ -1,0 +1,9 @@
+{
+    "totvsLanguageServer.welcomePage": false,
+    "editor.fontSize": 17,
+    "debug.console.fontSize": 17,
+    "scm.inputFontSize": 17,
+    "terminal.integrated.fontSize": 17,
+    "chat.editor.fontSize": 17,
+    "markdown.preview.fontSize": 17
+}
